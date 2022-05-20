@@ -6,7 +6,7 @@
   <h2 align="center">100 Days of Code: The Complete Python Pro Bootcamp</h2>
 </div>
 
-<h3>Course Description:</h3>
+## Course Description:
 
 100 Days of Code: The Complete Python Pro Bootcamp for 2022 is a course offered on the udemy platform by Dr. Angela Yu. 
 
@@ -15,5 +15,9 @@ The course is divided into 100 sections, which must be studied daily (preferably
 At the end of the course, the objective is to obtain a level of professional fluency in the python language.
 
 
-
+## Beginner - Day 01 to 14:
+## Intermediate - Day 15 to 31:
+## Intermediate+ - Day 32 to 58:
+## Advanced - Day 59 to 80:
+## Professional - Day 81 to 100:
 
