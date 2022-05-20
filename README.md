@@ -1,6 +1,12 @@
-<h2>100 Days of Code: The Complete Python Pro Bootcamp</h2>
+<p align="center">
+  <a href="https://github.com/marcoshsq/Marcos_Henrique_Portfolio](https://github.com/marcoshsq/100DaysOfCode">
+    <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="Developer Roadmap" >
+  </a>
+</p>
+  <h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp</h1>
+</div>
 
-<h3>Course Description:</h3>
+<h2>Course Description:</h2>
 
 100 Days of Code: The Complete Python Pro Bootcamp for 2022 is a course offered on the udemy platform by Dr. Angela Yu. 
 
