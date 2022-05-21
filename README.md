@@ -34,4 +34,6 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
 
 ###
 
+## Final considerations:
+
 This challenge started on 05/23/2022
