@@ -94,13 +94,59 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
 - [Day 58](): 
 
 ## Advanced - Day 59 to 80:
+
+- [Day 59](day59): 
+- [Day 60](day60): 
+- [Day 61](day61): 
+- [Day 62](day62): 
+- [Day 63](day63): 
+- [Day 64](day64): 
+- [Day 65](day65): 
+- [Day 66](day66): 
+- [Day 67](day67): 
+- [Day 68](day68): 
+- [Day 69](day69): 
+- [Day 70](day70): 
+- [Day 71](day71): 
+- [Day 72](day72): 
+- [Day 73](day73): 
+- [Day 74](day74): 
+- [Day 75](day75): 
+- [Day 76](day76): 
+- [Day 77](day77): 
+- [Day 78](day78): 
+- [Day 79](day79): 
+- [Day 80](day80):
+
+
 ## Professional - Day 81 to 100:
+
+- [Day 81](day81): Portfolio Project - 
+- [Day 82](day82): Portfolio Project - 
+- [Day 83](day83): Portfolio Project - 
+- [Day 84](day84): Portfolio Project - 
+- [Day 85](day85): Portfolio Project - 
+- [Day 86](day86): Portfolio Project - 
+- [Day 87](day87): Portfolio Project - 
+- [Day 88](day88): Portfolio Project - 
+- [Day 89](day89): Portfolio Project - 
+- [Day 90](day90): Portfolio Project - 
+- [Day 91](day91): Portfolio Project - 
+- [Day 92](day92): Portfolio Project - 
+- [Day 93](day93): Portfolio Project - 
+- [Day 94](day94): Portfolio Project -  
+- [Day 95](day95): Portfolio Project - 
+- [Day 96](day96): Portfolio Project - 
+- [Day 97](day97): Portfolio Project - 
+- [Day 98](day98): Portfolio Project - 
+- [Day 99](day99): Portfolio Project - 
+- [Day 100](day100): Portfolio Project - 
 
 ###
 
 ## Final considerations:
 
-This challenge started on 05/23/2022
+This challenge started on may, 23, 2022
 
 <div align="right">
   
