@@ -28,70 +28,70 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
 
 ## Beginner - Day 01 to 14:
 
-- [Day 01]()
-- [Day 02]()
-- [Day 03]()
-- [Day 04]()
-- [Day 05]()
-- [Day 06]()
-- [Day 07]()
-- [Day 08]()
-- [Day 09]()
-- [Day 10]()
-- [Day 11]()
-- [Day 12]()
-- [Day 13]()
-- [Day 14]()
+- [Day 01]():
+- [Day 02]():
+- [Day 03]():
+- [Day 04]():
+- [Day 05]():
+- [Day 06]():
+- [Day 07]():
+- [Day 08]():
+- [Day 09]():
+- [Day 10]():
+- [Day 11]():
+- [Day 12]():
+- [Day 13]():
+- [Day 14]():
 
 ## Intermediate - Day 15 to 31:
 
-- [Day 15]()
-- [Day 16]()
-- [Day 17]()
-- [Day 18]()
-- [Day 19]()
-- [Day 20]()
-- [Day 21]()
-- [Day 22]()
-- [Day 23]()
-- [Day 24]()
-- [Day 25]()
-- [Day 26]()
-- [Day 27]()
-- [Day 28]()
-- [Day 29]()
-- [Day 30]()
-- [Day 31]()
+- [Day 15]():
+- [Day 16]():
+- [Day 17]():
+- [Day 18]():
+- [Day 19]():
+- [Day 20]():
+- [Day 21]():
+- [Day 22]():
+- [Day 23]():
+- [Day 24]():
+- [Day 25]():
+- [Day 26]():
+- [Day 27]():
+- [Day 28]():
+- [Day 29]():
+- [Day 30]():
+- [Day 31]():
 
 ## Intermediate+ - Day 32 to 58:
 
-- [Day 32]()
-- [Day 33]()
-- [Day 34]()
-- [Day 35]()
-- [Day 36]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
-- [Day ]()
+- [Day 32](): 
+- [Day 33](): 
+- [Day 34](): 
+- [Day 35](): 
+- [Day 36](): 
+- [Dau 37](): 
+- [Day 38](): 
+- [Day 39](): 
+- [Day 40](): 
+- [Day 41](): 
+- [Day 42](): 
+- [Day 43](): 
+- [Day 44](): 
+- [Day 45](): 
+- [Day 46]():
+- [Day 47](): 
+- [Day 48](): 
+- [Day 49](): 
+- [Day 50](): 
+- [Day 51](): 
+- [Day 52](): 
+- [Day 53]():
+- [Day 54](): 
+- [Day 55](): 
+- [Day 56](): 
+- [Day 57](): 
+- [Day 58](): 
 
 ## Advanced - Day 59 to 80:
 ## Professional - Day 81 to 100:
