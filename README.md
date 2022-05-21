@@ -22,7 +22,20 @@
 
 The course is divided into 100 sections, which must be studied daily (preferably). 
 
-The course content is: PyCharm, Jupyter Notebook, Google Colab, Python Scripting and Automation, Python Game Development, Web Scraping, Selenium Web Driver, Request, Data Science, Pandas, NumPy, Matplotlib, Plotly, Scikit learn, Seaborn, Turtle, Python GUI Desktop App Development, Tkinter, Front-End Web Development, HTML 5, CSS 3, Bootstrap 4, Bash Command Line, Git, GitHub and Version Control, Backend Web Development, Flask, REST, APIs, Databases, SQL, SQLite, PostgreSQL, Authentication, Web Design, Deployment with GitHub Pages, Heroku and GUnicorn and more.
+The course content ranges from: 
+
+- IDE's and Notebooks (PyCharm, Jupyter Notebook, Google Colab);
+- Python Scripting and Automation;
+- Python Game Development;
+- Web Scraping, Selenium Web Driver and Request;
+- Data Science (Pandas, NumPy, Matplotlib, Plotly, Scikit learn, Seaborn);
+- Python GUI Desktop App Development (Turtle, Tkinter);
+- Front-End Web Development (HTML5, CSS3, Bootstrap 4);
+- Bash Command Line and Version Control (Git and GitHub);
+- Backend Web Development (Flask, REST, APIs);
+- Databases (SQL, SQLite, PostgreSQL);
+- Authentication; 
+- Heroku, GUnicorn and more.
 
 At the end of the course, the objective is to obtain a level of professional fluency in the python language.
 
