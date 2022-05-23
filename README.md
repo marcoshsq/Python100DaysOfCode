@@ -9,11 +9,11 @@
 ### Table of content:
 
 - [Course Description](https://github.com/marcoshsq/100DaysOfCode#course-description)
-- [Beginner](https://github.com/marcoshsq/100DaysOfCode#beginner---day-01-to-14)
-- [Intermediate](https://github.com/marcoshsq/100DaysOfCode#intermediate---day-15-to-31)
-- [Intermediate+](https://github.com/marcoshsq/100DaysOfCode#intermediate---day-32-to-58)
-- [Advanced](https://github.com/marcoshsq/100DaysOfCode#advanced---day-59-to-80)
-- [Professional](https://github.com/marcoshsq/100DaysOfCode#professional---day-81-to-100)
+- [Day 01 to 14](https://github.com/marcoshsq/100DaysOfCode#beginner---day-01-to-14)
+- [Day 15 to 31](https://github.com/marcoshsq/100DaysOfCode#intermediate---day-15-to-31)
+- [Day 32 to 58](https://github.com/marcoshsq/100DaysOfCode#intermediate---day-32-to-58)
+- [Day 59 to 80](https://github.com/marcoshsq/100DaysOfCode#advanced---day-59-to-80)
+- [Day 81 to 100](https://github.com/marcoshsq/100DaysOfCode#professional---day-81-to-100)
 - [Considerations](https://github.com/marcoshsq/100DaysOfCode#final-considerations)
 
 ## Course Description:
