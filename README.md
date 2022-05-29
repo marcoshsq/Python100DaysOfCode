@@ -43,7 +43,7 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
 
 ## Beginner - Day 01 to 14:
 
-- [Day 01]():
+- [Day 01](): Working with variables to manage data.
 - [Day 02]():
 - [Day 03]():
 - [Day 04]():
