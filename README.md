@@ -8,13 +8,13 @@
 
 ### Table of content:
 
-- [Course Description](https://github.com/marcoshsq/100DaysOfCode#course-description)
-- [Day 01 to 14](https://github.com/marcoshsq/100DaysOfCode#beginner---day-01-to-14)
-- [Day 15 to 31](https://github.com/marcoshsq/100DaysOfCode#intermediate---day-15-to-31)
-- [Day 32 to 58](https://github.com/marcoshsq/100DaysOfCode#intermediate---day-32-to-58)
-- [Day 59 to 80](https://github.com/marcoshsq/100DaysOfCode#advanced---day-59-to-80)
-- [Day 81 to 100](https://github.com/marcoshsq/100DaysOfCode#professional---day-81-to-100)
-- [Considerations](https://github.com/marcoshsq/100DaysOfCode#final-considerations)
+- [Course Description](https://github.com/marcoshsq/Python100DaysOfCode#course-description)
+- [Day 01 to 14](https://github.com/marcoshsq/Python100DaysOfCode#beginner---day-01-to-14)
+- [Day 15 to 31](https://github.com/marcoshsq/Python100DaysOfCode#intermediate---day-15-to-31)
+- [Day 32 to 58](https://github.com/marcoshsq/Python100DaysOfCode#intermediate---day-32-to-58)
+- [Day 59 to 80](https://github.com/marcoshsq/Python100DaysOfCode#advanced---day-59-to-80)
+- [Day 81 to 100](https://github.com/marcoshsq/Python100DaysOfCode#professional---day-81-to-100)
+- [Considerations](https://github.com/marcoshsq/Python100DaysOfCode#final-considerations)
 
 ## Course Description:
 
@@ -41,9 +41,9 @@ At the end of the course, the objective is to obtain a level of professional flu
 
 The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
-## Beginner - Day 01 to 14:
+## Beginner - [Day 01 to 14:]()
 
-- [Day 01](): Working with variables to manage data.
+- [Day 01:]() Working with variables to manage data.
 - [Day 02]():
 - [Day 03]():
 - [Day 04]():
@@ -60,7 +60,7 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
 
 <div align="right">
   
-  [To the top](https://github.com/marcoshsq/100DaysOfCode#100-days-of-code-the-complete-python-pro-bootcamp)
+  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#100-days-of-code-the-complete-python-pro-bootcamp)
   
 </div>
 
@@ -86,7 +86,7 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
 
 <div align="right">
   
-  [To the top](https://github.com/marcoshsq/100DaysOfCode#100-days-of-code-the-complete-python-pro-bootcamp)
+  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#100-days-of-code-the-complete-python-pro-bootcamp)
   
 </div>
 
@@ -122,7 +122,7 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
 
 <div align="right">
   
-  [To the top](https://github.com/marcoshsq/100DaysOfCode#100-days-of-code-the-complete-python-pro-bootcamp)
+  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#100-days-of-code-the-complete-python-pro-bootcamp)
   
 </div>
 
@@ -153,7 +153,7 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
 
 <div align="right">
   
-  [To the top](https://github.com/marcoshsq/100DaysOfCode#100-days-of-code-the-complete-python-pro-bootcamp)
+  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#100-days-of-code-the-complete-python-pro-bootcamp)
   
 </div>
 
@@ -182,7 +182,7 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
 
 <div align="right">
   
-  [To the top](https://github.com/marcoshsq/100DaysOfCode#100-days-of-code-the-complete-python-pro-bootcamp)
+  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#100-days-of-code-the-complete-python-pro-bootcamp)
   
 </div>
 
