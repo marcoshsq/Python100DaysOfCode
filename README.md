@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/marcoshsq/100DaysOfCode">
+  <a href="https://github.com/marcoshsq/Python100DaysOfCode">
     <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="Developer Roadmap" >
   </a>
 </p>
