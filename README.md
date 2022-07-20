@@ -3,11 +3,12 @@
     <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="Developer Roadmap" >
   </a>
 </p>
-  <h2 align="center">100 Days of Code: The Complete Python Pro Bootcamp</h2>
+  <h2 align="center">:snake::snake:100 Days of Code: The Complete Python Pro Bootcamp:snake::snake:</h2>
 </div>
 
 ### Table of content:
 
+- [About](https://github.com/marcoshsq/Python100DaysOfCode#about)
 - [Course Description](https://github.com/marcoshsq/Python100DaysOfCode#course-description)
 - [Day 01 to 14](https://github.com/marcoshsq/Python100DaysOfCode#beginner---day-01-to-14)
 - [Day 15 to 31](https://github.com/marcoshsq/Python100DaysOfCode#intermediate---day-15-to-31)
@@ -15,6 +16,10 @@
 - [Day 59 to 80](https://github.com/marcoshsq/Python100DaysOfCode#advanced---day-59-to-80)
 - [Day 81 to 100](https://github.com/marcoshsq/Python100DaysOfCode#professional---day-81-to-100)
 - [Considerations](https://github.com/marcoshsq/Python100DaysOfCode#final-considerations)
+
+## About
+
+The 100 days of code is a course offered through Udemy, where the idea is to program every day for 100 days, creating 100 different projects that range from beginners to more advanced concepts, at the end the student will have not only a portfolio but also a very deep knowledge of the python language and its applications.
 
 ## Course Description:
 
@@ -41,7 +46,7 @@ At the end of the course, the objective is to obtain a level of professional flu
 
 The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
-## Beginner - [Day 01 to 14:]()
+## 🔰 Beginner - [Day 01 to 14:]()
 
 - [Day 01]() - Working with variables to manage data.
 - [Day 02]() -
@@ -64,7 +69,7 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
   
 </div>
 
-## Intermediate - Day 15 to 31:
+## 📚 Intermediate - Day 15 to 31:
 
 - [Day 15]():
 - [Day 16]():
@@ -90,7 +95,7 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
   
 </div>
 
-## Intermediate+ - Day 32 to 58:
+## 👨‍💻 Intermediate+ - Day 32 to 58:
 
 - [Day 32](): 
 - [Day 33](): 
@@ -126,7 +131,7 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
   
 </div>
 
-## Advanced - Day 59 to 80:
+## 🏆 Advanced - Day 59 to 80:
 
 - [Day 59](): 
 - [Day 60](): 
@@ -157,7 +162,7 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
   
 </div>
 
-## Professional - Day 81 to 100:
+## ⚔ Professional - Day 81 to 100:
 
 - [Day 81](): Portfolio Project - 
 - [Day 82](): Portfolio Project - 
@@ -190,7 +195,7 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
 
 ## Final considerations:
 
-
+Work in progress...
 
 <div align="right">
   
