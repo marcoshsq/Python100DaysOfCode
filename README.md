@@ -10,11 +10,11 @@
 
 - [About](https://github.com/marcoshsq/Python100DaysOfCode#about)
 - [Course Description](https://github.com/marcoshsq/Python100DaysOfCode#course-description)
-- [Day 01 to 14](https://github.com/marcoshsq/Python100DaysOfCode#beginner---day-01-to-14)
-- [Day 15 to 31](https://github.com/marcoshsq/Python100DaysOfCode#intermediate---day-15-to-31)
-- [Day 32 to 58](https://github.com/marcoshsq/Python100DaysOfCode#intermediate---day-32-to-58)
-- [Day 59 to 80](https://github.com/marcoshsq/Python100DaysOfCode#advanced---day-59-to-80)
-- [Day 81 to 100](https://github.com/marcoshsq/Python100DaysOfCode#professional---day-81-to-100)
+- [Day 01 to 14](https://github.com/marcoshsq/Python100DaysOfCode#-beginner---day-01-to-14)
+- [Day 15 to 31](https://github.com/marcoshsq/Python100DaysOfCode#-intermediate---day-15-to-31)
+- [Day 32 to 58](https://github.com/marcoshsq/Python100DaysOfCode#-intermediate---day-32-to-58)
+- [Day 59 to 80](https://github.com/marcoshsq/Python100DaysOfCode#-advanced---day-59-to-80)
+- [Day 81 to 100](https://github.com/marcoshsq/Python100DaysOfCode#-professional---day-81-to-100)
 - [Considerations](https://github.com/marcoshsq/Python100DaysOfCode#final-considerations)
 
 ## About
@@ -65,7 +65,7 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
 
 <div align="right">
   
-  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#100-days-of-code-the-complete-python-pro-bootcamp)
+  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#snakesnake100-days-of-code-the-complete-python-pro-bootcampsnakesnake)
   
 </div>
 
@@ -91,7 +91,7 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
 
 <div align="right">
   
-  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#100-days-of-code-the-complete-python-pro-bootcamp)
+  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#snakesnake100-days-of-code-the-complete-python-pro-bootcampsnakesnake)
   
 </div>
 
@@ -127,7 +127,7 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
 
 <div align="right">
   
-  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#100-days-of-code-the-complete-python-pro-bootcamp)
+  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#snakesnake100-days-of-code-the-complete-python-pro-bootcampsnakesnake)
   
 </div>
 
@@ -158,7 +158,7 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
 
 <div align="right">
   
-  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#100-days-of-code-the-complete-python-pro-bootcamp)
+  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#snakesnake100-days-of-code-the-complete-python-pro-bootcampsnakesnake)
   
 </div>
 
@@ -187,7 +187,7 @@ The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://ww
 
 <div align="right">
   
-  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#100-days-of-code-the-complete-python-pro-bootcamp)
+  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#snakesnake100-days-of-code-the-complete-python-pro-bootcampsnakesnake)
   
 </div>
 
@@ -199,6 +199,6 @@ Work in progress...
 
 <div align="right">
   
-  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#100-days-of-code-the-complete-python-pro-bootcamp)
+  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#snakesnake100-days-of-code-the-complete-python-pro-bootcampsnakesnake)
   
 </div>
