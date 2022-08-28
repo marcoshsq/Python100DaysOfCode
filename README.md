@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/Python100DaysOfCode">
-    <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="Developer Roadmap" >
+    <img src="https://i.pinimg.com/originals/d4/2f/8b/d42f8b8f1fef0dda7a891baff178c072.png" alt="Developer Roadmap" height="150">
   </a>
 </p>
   <h2 align="center">:snake::snake:100 Days of Code: The Complete Python Pro Bootcamp:snake::snake:</h2>
