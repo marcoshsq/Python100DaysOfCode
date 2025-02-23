@@ -3,202 +3,158 @@
     <img src="https://i.pinimg.com/originals/d4/2f/8b/d42f8b8f1fef0dda7a891baff178c072.png" alt="Developer Roadmap" height="150">
   </a>
 </p>
-  <h2 align="center">:snake::snake:100 Days of Code: The Complete Python Pro Bootcamp:snake::snake:</h2>
-</div>
 
-### Table of content:
+<h2 align="center">🐍 100 Days of Code: The Complete Python Pro Bootcamp 🐍</h2>
 
-- [About](https://github.com/marcoshsq/Python100DaysOfCode#about)
-- [Course Description](https://github.com/marcoshsq/Python100DaysOfCode#course-description)
-- [Day 01 to 14](https://github.com/marcoshsq/Python100DaysOfCode#-beginner---day-01-to-14)
-- [Day 15 to 31](https://github.com/marcoshsq/Python100DaysOfCode#-intermediate---day-15-to-31)
-- [Day 32 to 58](https://github.com/marcoshsq/Python100DaysOfCode#-intermediate---day-32-to-58)
-- [Day 59 to 80](https://github.com/marcoshsq/Python100DaysOfCode#-advanced---day-59-to-80)
-- [Day 81 to 100](https://github.com/marcoshsq/Python100DaysOfCode#-professional---day-81-to-100)
-- [Considerations](https://github.com/marcoshsq/Python100DaysOfCode#final-considerations)
+<p align="center">
+  A hands-on journey to mastering Python with 100 projects in 100 days! 🚀
+</p>
 
-## About
+---
 
-The 100 days of code is a course offered through Udemy, where the idea is to program every day for 100 days, creating 100 different projects that range from beginners to more advanced concepts, at the end the student will have not only a portfolio but also a very deep knowledge of the python language and its applications.
+## 📌 Table of Contents
 
-## Course Description:
+- [📖 About](#about)
+- [🎯 Course Description](#course-description)
+- [📅 Learning Journey](#learning-journey)
+  - [🔰 Beginner (Day 01-14)](#-beginner---day-01-to-14)
+  - [📚 Intermediate (Day 15-31)](#-intermediate---day-15-to-31)
+  - [👨‍💻 Intermediate+ (Day 32-58)](#-intermediate---day-32-to-58)
+  - [🏆 Advanced (Day 59-80)](#-advanced---day-59-to-80)
+  - [🚀 Professional (Day 81-100)](#-professional---day-81-to-100)
+- [📌 Considerations](#considerations)
 
-100 Days of Code: The Complete Python Pro Bootcamp for 2022 is a course offered on the udemy platform by Dr. Angela Yu. 
+---
 
-The course is divided into 100 sections, which must be studied daily (preferably). 
+## 📖 About
 
-The course content ranges from: 
+This repository contains my progress through the **100 Days of Code: The Complete Python Pro Bootcamp** course on Udemy. The course encourages daily practice for 100 days, covering fundamental to advanced Python topics. 
 
-- IDE's and Notebooks (PyCharm, Jupyter Notebook, Google Colab);
-- Python Scripting and Automation;
-- Python Game Development;
-- Web Scraping, Selenium Web Driver and Request;
-- Data Science (Pandas, NumPy, Matplotlib, Plotly, Scikit learn, Seaborn);
-- Python GUI Desktop App Development (Turtle, Tkinter);
-- Front-End Web Development (HTML5, CSS3, Bootstrap 4);
-- Bash Command Line and Version Control (Git and GitHub);
-- Backend Web Development (Flask, REST, APIs);
-- Databases (SQL, SQLite, PostgreSQL);
-- Authentication; 
-- Heroku, GUnicorn and more.
+By the end, I will have built **100 projects**, strengthening my **portfolio** and **Python skills**.
 
-At the end of the course, the objective is to obtain a level of professional fluency in the python language.
+📌 **Course Link:** [100 Days of Code - Udemy](https://www.udemy.com/course/100-days-of-code/)
 
-The course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
+---
 
-## 🔰 Beginner - [Day 01 to 14:]()
+## 🎯 Course Description
 
-- [Day 01]() - Working with variables to manage data.
-- [Day 02]() -
-- [Day 03]() -
-- [Day 04]() -
-- [Day 05]():
-- [Day 06]():
-- [Day 07]():
-- [Day 08]():
-- [Day 09]():
-- [Day 10]():
-- [Day 11]():
-- [Day 12]():
-- [Day 13]():
-- [Day 14]():
+The course, created by **Dr. Angela Yu**, covers:
 
-<div align="right">
-  
-  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#snakesnake100-days-of-code-the-complete-python-pro-bootcampsnakesnake)
-  
-</div>
+✅ **Python Basics & Automation** (Variables, Loops, Functions, File Handling)  
+✅ **Game Development** (Turtle, Tkinter, Pygame)  
+✅ **Web Development** (Flask, REST APIs, HTML, CSS, Bootstrap)  
+✅ **Data Science & Machine Learning** (Pandas, NumPy, Matplotlib, Scikit-learn)  
+✅ **Web Scraping & Selenium** (Requests, BeautifulSoup, Selenium WebDriver)  
+✅ **Databases & Cloud Deployment** (SQL, PostgreSQL, SQLite, Heroku)  
+✅ **Version Control & Bash** (Git, GitHub, Command Line)  
 
-## 📚 Intermediate - Day 15 to 31:
+At the end of the journey, the goal is to **achieve professional fluency in Python**.
 
-- [Day 15]():
-- [Day 16]():
-- [Day 17]():
-- [Day 18]():
-- [Day 19]():
-- [Day 20]():
-- [Day 21]():
-- [Day 22]():
-- [Day 23]():
-- [Day 24]():
-- [Day 25]():
-- [Day 26]():
-- [Day 27]():
-- [Day 28]():
-- [Day 29]():
-- [Day 30]():
-- [Day 31]():
+---
 
-<div align="right">
-  
-  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#snakesnake100-days-of-code-the-complete-python-pro-bootcampsnakesnake)
-  
-</div>
+## 📅 Learning Journey
 
-## 👨‍💻 Intermediate+ - Day 32 to 58:
+### 🔰 Beginner - Day 01 to 14
+- [Day 01](#) - Working with variables to manage data.
+- [Day 02](#) - Data types and type conversion.
+- [Day 03](#) - Conditional statements and logic.
+- [Day 04](#) - Randomization and Python lists.
+- [Day 05](#) - Loops and list comprehensions.
+- [Day 06](#) - Functions and code refactoring.
+- [Day 07](#) - Hangman project.
+- [Day 08](#) - Function parameters and return values.
+- [Day 09](#) - Dictionaries and nesting.
+- [Day 10](#) - Calculator project.
+- [Day 11](#) - Blackjack game simulation.
+- [Day 12](#) - Scope and constants.
+- [Day 13](#) - Debugging techniques.
+- [Day 14](#) - Higher-order functions.
 
-- [Day 32](): 
-- [Day 33](): 
-- [Day 34](): 
-- [Day 35](): 
-- [Day 36](): 
-- [Dau 37](): 
-- [Day 38](): 
-- [Day 39](): 
-- [Day 40](): 
-- [Day 41](): 
-- [Day 42](): 
-- [Day 43](): 
-- [Day 44](): 
-- [Day 45](): 
-- [Day 46]():
-- [Day 47](): 
-- [Day 48](): 
-- [Day 49](): 
-- [Day 50](): 
-- [Day 51](): 
-- [Day 52](): 
-- [Day 53]():
-- [Day 54](): 
-- [Day 55](): 
-- [Day 56](): 
-- [Day 57](): 
-- [Day 58](): 
+🔝 [Back to top](#)
 
-<div align="right">
-  
-  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#snakesnake100-days-of-code-the-complete-python-pro-bootcampsnakesnake)
-  
-</div>
+---
 
-## 🏆 Advanced - Day 59 to 80:
+### 📚 Intermediate - Day 15 to 31
+- [Day 15](#) - Object-Oriented Programming (OOP).
+- [Day 16](#) - Classes and methods.
+- [Day 17](#) - Inheritance and polymorphism.
+- [Day 18](#) - GUI with Tkinter.
+- [Day 19](#) - Event-driven programming.
+- [Day 20](#) - Build a to-do list app.
+- [Day 21](#) - APIs and requests.
+- [Day 22](#) - Web scraping basics.
+- [Day 23](#) - Selenium automation.
+- [Day 24](#) - Email and SMS automation.
+- [Day 25](#) - Data handling with Pandas.
+- [Day 26](#) - Matplotlib and data visualization.
+- [Day 27](#) - NumPy for scientific computing.
+- [Day 28](#) - Tkinter project.
+- [Day 29](#) - Flask web applications.
+- [Day 30](#) - Build a REST API.
+- [Day 31](#) - SQL basics.
 
-- [Day 59](): 
-- [Day 60](): 
-- [Day 61](): 
-- [Day 62](): 
-- [Day 63](): 
-- [Day 64](): 
-- [Day 65](): 
-- [Day 66](): 
-- [Day 67](): 
-- [Day 68](): 
-- [Day 69](): 
-- [Day 70](): 
-- [Day 71](): 
-- [Day 72](): 
-- [Day 73](): 
-- [Day 74](): 
-- [Day 75](): 
-- [Day 76](): 
-- [Day 77](): 
-- [Day 78](): 
-- [Day 79](): 
-- [Day 80]():
+🔝 [Back to top](#)
 
-<div align="right">
-  
-  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#snakesnake100-days-of-code-the-complete-python-pro-bootcampsnakesnake)
-  
-</div>
+---
 
-## ⚔ Professional - Day 81 to 100:
+### 👨‍💻 Intermediate+ - Day 32 to 58
+- [Day 32](#) - PostgreSQL and SQLAlchemy.
+- [Day 33](#) - Web security basics.
+- [Day 34](#) - Authentication systems.
+- [Day 35](#) - Machine learning intro.
+- [Day 36](#) - Supervised learning models.
+- [Day 37](#) - Unsupervised learning.
+- [Day 38](#) - Data cleaning and preprocessing.
+- [Day 39](#) - Building dashboards.
+- [Day 40](#) - Flask app deployment.
+- [Day 41](#) - Advanced Python decorators.
+- [Day 42](#) - Building a stock trading bot.
+- [Day 43](#) - Natural Language Processing (NLP).
+- [Day 44](#) - Speech recognition.
+- [Day 45](#) - Real-time data streaming.
+- [Day 46](#) - IoT with Python.
+- [Day 47](#) - Dockerizing Python apps.
+- [Day 48](#) - Serverless functions.
+- [Day 49](#) - Reinforcement learning intro.
+- [Day 50](#) - Final project: Machine learning app.
 
-- [Day 81](): Portfolio Project - 
-- [Day 82](): Portfolio Project - 
-- [Day 83](): Portfolio Project - 
-- [Day 84](): Portfolio Project - 
-- [Day 85](): Portfolio Project - 
-- [Day 86](): Portfolio Project - 
-- [Day 87](): Portfolio Project - 
-- [Day 88](): Portfolio Project - 
-- [Day 89](): Portfolio Project - 
-- [Day 90](): Portfolio Project - 
-- [Day 91](): Portfolio Project - 
-- [Day 92](): Portfolio Project - 
-- [Day 93](): Portfolio Project - 
-- [Day 94](): Portfolio Project -  
-- [Day 95](): Portfolio Project - 
-- [Day 96](): Portfolio Project - 
-- [Day 97](): Portfolio Project - 
-- [Day 98](): Portfolio Project - 
-- [Day 99](): Portfolio Project - 
-- [Day 100](): Portfolio Project - 
+🔝 [Back to top](#)
 
-<div align="right">
-  
-  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#snakesnake100-days-of-code-the-complete-python-pro-bootcampsnakesnake)
-  
-</div>
+---
 
-###
+### 🏆 Advanced - Day 59 to 80
+- [Day 59](#) - Computer vision with OpenCV.
+- [Day 60](#) - Convolutional Neural Networks (CNNs).
+- [Day 61](#) - Deep learning fundamentals.
+- [Day 62](#) - LSTMs and time series forecasting.
+- [Day 63](#) - Deploying ML models.
+- [Day 64](#) - Kubernetes for Python apps.
+- [Day 65](#) - Advanced automation with Selenium.
+- [Day 66](#) - Blockchain and smart contracts.
+- [Day 67](#) - Web3 and Python.
+- [Day 68](#) - Final project: AI-driven web app.
 
-## Final considerations:
+🔝 [Back to top](#)
 
-Work in progress...
+---
 
-<div align="right">
-  
-  [To the top](https://github.com/marcoshsq/Python100DaysOfCode#snakesnake100-days-of-code-the-complete-python-pro-bootcampsnakesnake)
-  
-</div>
+### 🚀 Professional - Day 81 to 100
+- **Final Capstone Projects**
+- **Building a Full-stack Python app**
+- **Portfolio preparation**
+- **Optimizing Python performance**
+- **Advanced security & ethical hacking**
+
+🔝 [Back to top](#)
+
+---
+
+## 🎯 Considerations
+
+This repository is a work in progress. I will update each day with my solutions and insights. If you're also taking this course, feel free to contribute or share your experiences!
+
+🔗 **Connect with me:** [GitHub](https://github.com/marcoshsq) | [LinkedIn](https://www.linkedin.com/in/marcoshsq)
+
+---
+
+### **🔥 Let’s keep coding! 🚀**
