@@ -70,7 +70,7 @@ At the end of the journey, the goal is to **achieve professional fluency in Pyth
 - [Day 13](#) - Debugging techniques.
 - [Day 14](#) - Higher-order functions.
 
-🔝 [Back to top](#)
+🔝 [Back to top](https://github.com/marcoshsq/Python100DaysOfCode/tree/main?tab=readme-ov-file#-100-days-of-code-the-complete-python-pro-bootcamp-)
 
 ---
 
@@ -93,7 +93,7 @@ At the end of the journey, the goal is to **achieve professional fluency in Pyth
 - [Day 30](#) - Build a REST API.
 - [Day 31](#) - SQL basics.
 
-🔝 [Back to top](#)
+🔝 [Back to top](https://github.com/marcoshsq/Python100DaysOfCode/tree/main?tab=readme-ov-file#-100-days-of-code-the-complete-python-pro-bootcamp-)
 
 ---
 
@@ -118,7 +118,7 @@ At the end of the journey, the goal is to **achieve professional fluency in Pyth
 - [Day 49](#) - Reinforcement learning intro.
 - [Day 50](#) - Final project: Machine learning app.
 
-🔝 [Back to top](#)
+🔝 [Back to top](https://github.com/marcoshsq/Python100DaysOfCode/tree/main?tab=readme-ov-file#-100-days-of-code-the-complete-python-pro-bootcamp-)
 
 ---
 
@@ -134,7 +134,7 @@ At the end of the journey, the goal is to **achieve professional fluency in Pyth
 - [Day 67](#) - Web3 and Python.
 - [Day 68](#) - Final project: AI-driven web app.
 
-🔝 [Back to top](#)
+🔝 [Back to top](https://github.com/marcoshsq/Python100DaysOfCode/tree/main?tab=readme-ov-file#-100-days-of-code-the-complete-python-pro-bootcamp-)
 
 ---
 
@@ -145,7 +145,7 @@ At the end of the journey, the goal is to **achieve professional fluency in Pyth
 - **Optimizing Python performance**
 - **Advanced security & ethical hacking**
 
-🔝 [Back to top](#)
+🔝 [Back to top](https://github.com/marcoshsq/Python100DaysOfCode/tree/main?tab=readme-ov-file#-100-days-of-code-the-complete-python-pro-bootcamp-)
 
 ---
 
